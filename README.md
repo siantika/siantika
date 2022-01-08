@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siantika
 - 👀 I’m interested in Embedded System Engineering, IoT , and Analog Engineering.
-- 🌱 I’m currently learning Embedded System
+- 🌱 I’m currently learning Embedded System. IoT Devices, And Analog Circuit.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, email: csiantika@gmail.com
 
