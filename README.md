@@ -14,7 +14,7 @@ Advanced backend architecture, performance optimization, and cloud-native deploy
 Backend services, system integration, and data-driven applications
 
 📫 **Contact**
-Email: [csiantika@gmail.com](mailto:pawesisiantika98@gmail.com)
+Email: [pawesisiantika98@gmail.com](mailto:pawesisiantika98@gmail.com)
 
 <!---
 siantika/siantika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
