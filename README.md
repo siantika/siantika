@@ -1,4 +1,4 @@
-# Hi, I'm Sian Pawesi
+# Hi, I'm Pawesi Siantika 
 
 Backend Engineer focused on scalable systems, Clean Architecture, and production-ready architecture.
 
@@ -29,7 +29,7 @@ Operational backend platform integrating IoT ticket dispenser, cashier applicati
 - Dockerized deployment behind reverse proxy
 - Cloudflare protection & rate limiting
 
-Repository: https://github.com/USERNAME/carwash-management-system
+Repository: [https://github.com/USERNAME/carwash-management-system](https://github.com/siantika/be-carwash-demo)
 
 ---
 
@@ -43,17 +43,17 @@ Backend service for molecule–protein interaction prediction using asynchronous
 - Observability-ready (metrics & logging stack)
 - Containerized deployment
 
-Repository: https://github.com/USERNAME/jelajah-medika-api
+Repository: [https://github.com/USERNAME/jelajah-medika-api](https://github.com/siantika/prod-jelajah-meidka-api)
 
 ---
 
 ## Tech Stack
 
 **Languages**  
-Python • Go • SQL  
+Python • Go • Typescript • SQL  
 
 **Backend & Architecture**  
-FastAPI • Gin • Clean Architecture • Domain-Driven Design  
+FastAPI • Gin • Express Js • Clean Architecture • Domain-Driven Design  
 
 **Database & Caching**  
 PostgreSQL • Redis  
@@ -78,15 +78,15 @@ Prometheus • Grafana • Loki
 
 ## Currently Exploring
 
-- Advanced Go concurrency patterns  
-- Event-driven microservices  
-- Financial domain system design  
-- Distributed system reliability patterns  
+- Go for backend services  
+- Event-driven architecture concepts  
+- Financial domain modeling fundamentals  
+- Distributed system reliability patterns
 
 ---
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/USERNAME  
-Portfolio: https://your-portfolio.com  
-Email: your-email@example.com
+LinkedIn: [https://www.linkedin.com/in/USERNAME  ](https://www.linkedin.com/in/pawesi-siantika-/)
+Portfolio: https://vimanatech.cloud
+Email: pawesisiantika98@gmail.com
