@@ -29,7 +29,7 @@ Operational backend platform integrating IoT ticket dispenser, cashier applicati
 - Dockerized deployment behind reverse proxy
 - Cloudflare protection & rate limiting
 
-Repository: backend_carwash (https://github.com/siantika/be-carwash-demo)
+Repository: [backend_carwash_api](https://github.com/siantika/be-carwash-demo)
 
 ---
 
@@ -43,7 +43,7 @@ Backend service for molecule–protein interaction prediction using asynchronous
 - Observability-ready (metrics & logging stack)
 - Containerized deployment
 
-Repository: api-jelajah (https://github.com/siantika/prod-jelajah-meidka-api)
+Repository: [api-jelajah](https://github.com/siantika/prod-jelajah-meidka-api)
 
 ---
 
@@ -87,6 +87,6 @@ Prometheus • Grafana • Loki
 
 ## Contact
 
-LinkedIn: [https://www.linkedin.com/in/USERNAME  ](https://www.linkedin.com/in/pawesi-siantika-/)
+LinkedIn: [Pawesi Siantika](https://www.linkedin.com/in/pawesi-siantika-/)
 Portfolio: https://vimanatech.cloud
 Email: pawesisiantika98@gmail.com
