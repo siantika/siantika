@@ -1,76 +1,92 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/USERNAME/USERNAME/blob/main/banner.png" alt="banner" width="800" />
-</p>
+# Hi, I'm Sian Pawesi
 
-# Hi, I’m **USERNAME 👋**
+Backend Engineer focused on scalable systems, Clean Architecture, and production-ready architecture.
 
-Backend Engineer • System Designer • Problem Solver
-
-I'm passionate about building **production-ready backend systems**, **scalable APIs**, and **reliable infrastructure** that serve real users and real businesses.
+I design and build backend systems that are reliable, observable, and ready for real-world operations — not just CRUD demos.
 
 ---
 
-## 🚀 What I Do
-- 💡 Build **Clean Architecture** backend systems
-- 🔧 Design and deploy microservices (API, event buses, async workers)
-- 📊 Set up production observability (metrics, logs, tracing)
-- 🛡️ Implement secure & scalable solutions with Docker, Nginx, Cloudflare
-- 🤖 Integrate hardware & IoT systems
+## What I Build
+
+- Scalable REST APIs with clear domain boundaries  
+- Clean Architecture & use-case driven backend systems  
+- Asynchronous processing pipelines (worker-based architecture)  
+- Production-ready deployments (Docker, reverse proxy, security hardening)  
+- Observability stack (metrics, structured logs, monitoring dashboards)  
+- Hardware-integrated backend systems (IoT → API → Dashboard)
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Projects
 
-| Category | Tools & Technologies |
-|----------|----------------------|
-| Languages | Go • Python • SQL |
-| API & Frameworks | FastAPI • Fiber • Gin |
-| Databases | PostgreSQL • Redis |
-| Architecture | Clean Architecture • Event-Driven |
-| Deployment | Docker • Nginx • Cloudflare |
-| Observability | Prometheus • Grafana • Loki |
+### 🚗 Carwash Management System
+Operational backend platform integrating IoT ticket dispenser, cashier application, and owner dashboard.
 
----
+**Highlights:**
+- Clean Architecture implementation (domain, application, infrastructure separation)
+- Role-based access control (admin / cashier)
+- Ticket lifecycle & fraud-control tracking
+- Dockerized deployment behind reverse proxy
+- Cloudflare protection & rate limiting
 
-## 🏆 Highlights
-
-- Designed and deployed **Carwash Management System** for real operational usage  
-- Built **Jelajah Medika API** with async workers and job orchestration  
-- Production-ready observability stack with metrics & logs  
-- End-to-end system including hardware IoT integrations  
+Repository: https://github.com/USERNAME/carwash-management-system
 
 ---
 
-## 📦 Featured Projects
+### 🧬 Jelajah Medika API
+Backend service for molecule–protein interaction prediction using asynchronous job processing.
 
-### 🔗 [Carwash Management System](https://github.com/USERNAME/carwash-management)
-Clean Architecture backend to manage carwash operations with secure roles, auditing, and real hardware integration.
+**Highlights:**
+- Async worker architecture (API + job queue model)
+- Trackable job lifecycle (queued → processing → completed/failed)
+- Structured response schema for downstream integration
+- Observability-ready (metrics & logging stack)
+- Containerized deployment
 
-### 🧬 [Jelajah Medika API](https://github.com/USERNAME/jelajah-medika)
-Async worker API with monitoring, job orchestration, and ML inference pipeline services.
-
-### 🧾 [Finance Core Microservice](https://github.com/USERNAME/finance-core)
-Template microservice with domain driven design, REST API, and event processing.
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Go Concurrency  
-- Distributed tracing (OpenTelemetry)  
-- Microservices billing & subscription patterns
+Repository: https://github.com/USERNAME/jelajah-medika-api
 
 ---
 
-## 💌 Let’s Connect
+## Tech Stack
 
-📫 Email: **email@example.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/USERNAME  
-🌐 Portfolio: https://yourportfolio.com
+**Languages**  
+Python • Go • SQL  
+
+**Backend & Architecture**  
+FastAPI • Gin • Clean Architecture • Domain-Driven Design  
+
+**Database & Caching**  
+PostgreSQL • Redis  
+
+**Infrastructure**  
+Docker • Nginx • Cloudflare • VPS Deployment  
+
+**Observability**  
+Prometheus • Grafana • Loki  
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat&color=blue" alt="Profile Views"/>
-</p>
+## Engineering Principles
+
+- Clear separation of concerns
+- Domain-focused modeling
+- Production-first mindset
+- Security & reliability awareness
+- Measurable and monitorable systems
+
+---
+
+## Currently Exploring
+
+- Advanced Go concurrency patterns  
+- Event-driven microservices  
+- Financial domain system design  
+- Distributed system reliability patterns  
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/USERNAME  
+Portfolio: https://your-portfolio.com  
+Email: your-email@example.com
