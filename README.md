@@ -90,13 +90,12 @@ Backend service for drug-target interaction prediction using asynchronous job pr
 - Provided structured API responses for downstream integration
 - Containerized backend service for deployment
 - Added observability-ready setup using metrics and logging stack
-- Deployed service with monitoring support using Prometheus, Grafana, and Loki
 
 **Tech Stack:**  
 FastAPI · Python · PyTorch · PostgreSQL · Docker · AWS EC2 · Prometheus · Grafana · Loki
 
 **Repository:**  
-[prod-jelajah-meidka-api](https://github.com/siantika/prod-jelajah-meidka-api)
+[prod-jelajah-meidka-api](https://github.com/siantika/demo-jelajah-medika-api)
 
 ---
 
